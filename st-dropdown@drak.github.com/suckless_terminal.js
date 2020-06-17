@@ -73,7 +73,7 @@ class SucklessTerminal {
   }
 
   runST() {
-    GLib.spawn_command_line_async(`st -n ${this.stName} -e tmux`);
+    GLib.spawn_command_line_async(`st -n ${this.stName}`);
     let pid = this.getSTPid();
     if( pid ) {
       let windowID = this.getWindowID(pid);
