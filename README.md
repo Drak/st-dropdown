@@ -1,4 +1,5 @@
 # ST Drop-down
+[![Release: v1.0.0](https://img.shields.io/badge/Release-v1.0.0-blue)](CHANGELOG.md)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE.md)
 
 ST Drop-down is an awesome extension for Gnome Shell
