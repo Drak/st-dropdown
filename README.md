@@ -1,4 +1,5 @@
 # ST Drop-down
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE.md)
 
 ST Drop-down is an awesome extension for Gnome Shell
 that provides drop-down functionality to [ST - Simple Terminal](https://st.suckless.org/). 
@@ -56,3 +57,6 @@ ST Drop-down depends on:
 ### Usage
 
 Press <kbd>F12</kbd> to drop down and up ST. 
+
+### LICENSE
+[GNU GPL v3](LICENSE.md)
